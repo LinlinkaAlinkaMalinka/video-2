@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>HTML, CSS and JavaScript demo</title>
+    <link rel="stylesheet" href="style.css"
+</head>
+<body>
+  
+  <video scr="file.mp4" controls> </video> 
+  
+</body>
